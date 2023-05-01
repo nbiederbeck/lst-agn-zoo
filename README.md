@@ -1,1 +1,1 @@
-# lst-agn-zoo-config
+# LST AGN Zoo
