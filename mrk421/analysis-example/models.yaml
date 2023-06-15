@@ -1,5 +1,5 @@
 components:
-  - name: Crab
+  - name: Mrk421
     type: SkyModel
     spectral:
       type: LogParabolaSpectralModel
