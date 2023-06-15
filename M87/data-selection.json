@@ -1,0 +1,11 @@
+{
+  "source": "M87",
+  "source_ra_deg": 187.70593076,
+  "source_dec_deg": 12.39112329,
+  "pedestal": { "ul": 1.9, "ll": null, "sigma": null },
+  "cosmics": { "ul": 7800, "ll": 2600, "sigma": null },
+  "cosmics_10": { "ul": null, "ll": null, "sigma": null },
+  "cosmics_30": { "ul": null, "ll": null, "sigma": null },
+  "time_start": "2021-01-01",
+  "time_stop": "2022-05-05"
+}
